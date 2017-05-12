@@ -1,6 +1,5 @@
 # Purpose: Plots distribution of Gaia alert object magnitudes versus date of observation
 # Autor: Miroslav Mocak
-# Slovak Organization for Space Activiities
 # Date: 31/10/2016
 # Acknowledgement: Thanks to all posting great stuff about python coding on internet
 # Usage: run gaia_alerts.py
